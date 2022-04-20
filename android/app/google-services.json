@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66036602423",
+    "project_id": "letsyap-41ec2",
+    "storage_bucket": "letsyap-41ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66036602423:android:ac28c9ad27d88492c711b2",
+        "android_client_info": {
+          "package_name": "com.android.project.letsyap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66036602423-glq32o1a47dsuoani0r1am4529gi9r5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.project.letsyap",
+            "certificate_hash": "fddf72e4e57284264019923286bf556e430dcf2a"
+          }
+        },
+        {
+          "client_id": "66036602423-g3ohng678bvaf3tesq34674ap6ehuh39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmD7k5gsJbIPi7uV9nwjw6zHJfZy1DBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66036602423-g3ohng678bvaf3tesq34674ap6ehuh39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
